@@ -1,3 +1,14 @@
-As rendered on a Picadillo in Landscape:
+Sinclair
+==========
 
-![Screenshot](Screenshot.png?raw=true)
+Usage
+------
+
+    #include <Sinclair.h>
+
+Preview images
+--------------
+* Fonts::Sinclair 
+
+![Sinclair](https://raw.githubusercontent.com/DisplayCore/Sinclair/master/Preview/Sinclair.png)
+
