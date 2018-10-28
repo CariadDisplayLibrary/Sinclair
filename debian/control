@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Sinclair.h
-Description: Sinclair font for DisplayCore
+Description: Sinclair
