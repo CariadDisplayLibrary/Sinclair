@@ -1,2 +1,4 @@
-Sinclair.cpp libraries/DisplayCore/Sinclair
-Sinclair.h libraries/DisplayCore/Sinclair
+library.json libraries/DisplayCore/Sinclair
+library.properties libraries/DisplayCore/Sinclair
+README.md libraries/DisplayCore/Sinclair
+src libraries/DisplayCore/Sinclair
