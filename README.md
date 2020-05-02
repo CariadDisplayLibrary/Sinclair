@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Sinclair 
 
-![Sinclair](https://raw.githubusercontent.com/DisplayCore/Sinclair/master/Preview/Sinclair.png)
+![Sinclair](https://raw.githubusercontent.com/Cariad/Sinclair/master/Preview/Sinclair.png)
 
